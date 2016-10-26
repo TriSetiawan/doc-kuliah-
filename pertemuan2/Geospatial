@@ -1,0 +1,44 @@
+Penjelasan :
+Geospatial adalah aspek ruang yang menunjukkan lokasi, letak, dan posisi suatu objek atau kejadian yang terjadi di bawah bumi atau diatas 
+permukaan bumi yang dinyatakan dalam sistem koordinat tertentu.
+
+Data Vektor adalah data yang menunjukkan pola ruang dalam bentuk koordinat titik, garis, kurva, atau poligion.
+
+Kelebihan Data Vektor
+-	Struktur data yang rumit
+-	Lebih Efisien untuk analisis
+-	Sarana representasi yang lebih baik
+-	Transformasi proyek yang efisien
+-	Ketilitian, lebih presisi dan lebih akurat
+-	Relasi antar atribut langsung dengan database
+
+Kekurangan Data Vektor
+-	Menyulitkan untuk proses overlay
+-	Tidak dapat menampilkan data foto(image) udara
+-	Bentuk struktur data yang kurang efektif dalam menampilkan spasial
+-	Membutuhkan algoritma dan proses yang sangat kompleks
+-	Kualitas yang bergantung pada printer dan kartografi
+-	Sulit melakukan simulasi
+
+Data Raster adalah data yang menunjukkan sisi ruang bumi dalam bentuk picture element (pixel) yang berbentuk petak/grid
+dan dihasilkan dari peninjauan jauh.
+
+Kelebihan Data Raster
+-	Struktur data yang sederhana
+-	Mudah untuk dimanipulasi menggunakan fungsi matematis yang sederhana
+-	Menggunakan teknologi yang cukup murah dan tidak begitu kompleks 
+-	Compatible dengan citra satelit penginderaan jauh 
+-	Overlay dan kombinasi data raster dengan deta indra mudah dilakuka
+-	Mempunyai kemampuan permodelan dan analisis spasial 
+-	Memperoleh data menggunakan data raster lebih mudah, sederhana dan murah
+-	Harga sistem perangkat lunak aplikasi yang murah
+
+Kekurangan Data Raste
+-	Memerlukan tempat penyimpanan (disk) yang cukup besar dalam komputer
+-	Penggunaan sel lebih besar untuk menghemat ruang penyimpanan 
+-	Satu citra raster hanya mengandung satu sematik saja
+-	Representasi dan akurasi posisi bergantung pada ukuran pixel 
+-	Selalu mengalami kesalahan dalam menggambarkan bentuk dan garis batas pada suatu objek
+-	Transformasi dan proyeksi koordinat lebih sulit
+-	Sulit dalam melakukan representasi hubungan topologi 
+
